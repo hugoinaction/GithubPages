@@ -146,7 +146,7 @@ a:hover {
 }
 
 .post {
-  width: calc(100% - 30px)
+  width: calc(100% - 30px);
   margin: 15px;
   box-sizing: border-box;
   padding: 10px;
